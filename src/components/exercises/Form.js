@@ -14,7 +14,6 @@ const styles = theme => ({
 export default withStyles(styles)(class Form extends Component {
   state = this.getInitialState();
 
-
   handleChange = name => ({target: { value }}) => 
     this.setState({
         [name]: value
