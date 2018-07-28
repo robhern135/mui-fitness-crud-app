@@ -1,11 +1,12 @@
 {
-  "homapage": "http://robhern135.github.io/mui-fitness-crud-app/",
+  "homepage": "http://robhern135.github.io/mui-fitness-crud-app/",
   "name": "fitness-mui-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.4.1",
     "ajv": "^6.5.2",
+    "gh-pages": "^1.2.0",
     "material-ui-icons": "^1.0.0-beta.36",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
